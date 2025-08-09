@@ -9,7 +9,7 @@ I recently graduated from UC Santa Barbara with a B.S. in Computer Science and a
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Gymflow](https://github.com/ucsb-cs184-f24/team05-GymFlow)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Car Path Finder Project](https://github.com/NevMan1/CarPathFinder) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
