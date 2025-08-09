@@ -1,5 +1,9 @@
 <h1>Hi, I'm Nevin Manimaran! </h1>
 
+<h2> About Me: </h2>
+
+I recently graduated from UC Santa Barbara with a B.S. in Computer Science and a minor in Statistical Science. I am passionate about data science and software in the way it helps organizations to be data-driven and improve their business processes, and how it helps in collaboration in social media. I have knowledge and experience in Python, Java, C++, and databases. I am also an AWS Certified Cloud Practitioner.
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
