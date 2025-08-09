@@ -6,14 +6,13 @@ I recently graduated from UC Santa Barbara with a B.S. in Computer Science and a
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Gymflow](https://github.com/ucsb-cs184-f24/team05-GymFlow)
 - <b>Artificial Intelligence</b>
   - [Car Path Finder Project](https://github.com/NevMan1/CarPathFinder)
 - <b>AI Agents</b>
   - [Cover Letter LLM](https://github.com/NevMan1/Cover_Letter_LLM)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [HMMMM](https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-2)
+  - [CS156](https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-2)
+  - [Gymflow](https://github.com/ucsb-cs184-f24/team05-GymFlow)
  
 
 
