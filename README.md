@@ -15,7 +15,7 @@ This project aims to predict the quality of wines using various machine learning
 
 ## [Project 3: Gymflow](https://github.com/ucsb-cs184-f24/team05-GymFlow)
 
-This project aims to revolutionize the way banks market to their customers by leveraging machine learning techniques to segment customers based on their account history, credit scores, and demographics. By gaining insights into distinct customer groups, banks can tailor their marketing and customer acquisition strategies for optimal results.
+This project aims to provide students with real-time gym activity data and personalized fitness recommendations through a mobile application built with Xcode. It incorporates a SARIMA-based forecasting feature that achieves 87% accuracy in predicting seasonal spikes in gym usage, and integrates an edge-detection computer vision system for barcode scanning, reducing simulated check-in times by 60%. Additionally, the app leverages an AI-driven recommendation system to generate customized workout and meal plans from simulated gym equipment and dining hall data, improving recommendation relevance scores by 40% in testing.
 
 <h2> 🤳 Connect with me:</h2>
 
