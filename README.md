@@ -11,7 +11,7 @@ In this project, I analyzed and visualized the sales data for Retail and Food Se
 
 ## [Project 2: Cover Letter LLM](https://github.com/NevMan1/Cover_Letter_LLM)
 
-This project aims to predict the quality of wines using various machine learning algorithms. It utilizes the MLflow platform to manage the end-to-end machine learning lifecycle, including data preprocessing, model training, hyperparameter tuning, and deployment on AWS EC2.
+This project aims to assist job seekers by providing personalized and context-aware support in the application process through an AI-powered agent built with LangGraph. It generates tailored cover letters by retrieving company-specific job details and aligning them with candidate resumes. The system integrates Retrieval-Augmented Generation pipelines with vector databases to deliver company insights and job information, while modular graph-based flows enable 4+ AI tasks—including cover letter creation and Q&A—boosting adaptability by 50%. Additionally, it leverages Google Gemini models with custom prompts and context injection to ensure documents match the desired professional tone and intent.
 
 ## [Project 3: Gymflow](https://github.com/ucsb-cs184-f24/team05-GymFlow)
 
