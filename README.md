@@ -4,16 +4,6 @@
 
 I recently graduated from UC Santa Barbara with a B.S. in Computer Science and a minor in Statistical Science. I am passionate about data science and software in the way it helps organizations to be data-driven and improve their business processes, and how it helps in collaboration in social media. I have knowledge and experience in Python, Java, C++, and databases. I am also an AWS Certified Cloud Practitioner.
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Artificial Intelligence</b>
-  - [Car Path Finder Project](https://github.com/NevMan1/CarPathFinder)
-- <b>AI Agents</b>
-  - [Cover Letter LLM](https://github.com/NevMan1/Cover_Letter_LLM)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [CS156](https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-2)
-  - [Gymflow](https://github.com/ucsb-cs184-f24/team05-GymFlow)
- 
 
 ## [Project 1: Car Path Finder Project](https://github.com/NevMan1/CarPathFinder)
 
