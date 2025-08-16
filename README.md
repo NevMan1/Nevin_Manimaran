@@ -7,7 +7,7 @@ I recently graduated from UC Santa Barbara with a B.S. in Computer Science and a
 
 ## [Project 1: Car Path Finder Project](https://github.com/NevMan1/CarPathFinder)
 
-In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
+I developed an intelligent searching agent to operate in a dynamic, grid-based environment where it must avoid other agents and walls, collect coins, and reach the goal with the optimal score. The solution uses an A* search algorithm with Manhattan distance as the heuristic, chosen for its admissibility to guarantee optimality in pathfinding.
 
 ## [Project 2: Cover Letter LLM](https://github.com/NevMan1/Cover_Letter_LLM)
 
