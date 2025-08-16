@@ -14,7 +14,20 @@ I recently graduated from UC Santa Barbara with a B.S. in Computer Science and a
   - [CS156](https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-2)
   - [Gymflow](https://github.com/ucsb-cs184-f24/team05-GymFlow)
  
+---
+- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
+---
+## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 
+In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
+
+## [Project 2: Wine Quality Prediction with MLFLOW experiments](https://github.com/tushar2704/Wine_Quality)
+
+This project aims to predict the quality of wines using various machine learning algorithms. It utilizes the MLflow platform to manage the end-to-end machine learning lifecycle, including data preprocessing, model training, hyperparameter tuning, and deployment on AWS EC2.
+
+## [Project 3: Bank German Customer Segmentation & Classification Machine Learning Model as Flask API](https://github.com/tushar2704/Bank-German-Customer-Segmentation)
+
+This project aims to revolutionize the way banks market to their customers by leveraging machine learning techniques to segment customers based on their account history, credit scores, and demographics. By gaining insights into distinct customer groups, banks can tailor their marketing and customer acquisition strategies for optimal results.
 
 <h2> 🤳 Connect with me:</h2>
 
