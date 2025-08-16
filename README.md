@@ -14,9 +14,7 @@ I recently graduated from UC Santa Barbara with a B.S. in Computer Science and a
   - [CS156](https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-2)
   - [Gymflow](https://github.com/ucsb-cs184-f24/team05-GymFlow)
  
----
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
----
+
 ## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 
 In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
